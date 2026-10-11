@@ -1,0 +1,11 @@
+/admin
+/login
+/dashboard
+/images
+/css
+/js
+/api
+/config
+/.git
+/robots.txt
+/sitemap.xml

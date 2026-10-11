@@ -1,0 +1,26 @@
+Web Eye Scanner - School Report
+Date: 2026-10-11 14:20:39.161154
+Target: https://example.com (Test site you own)
+==================================================
+
+Status:
+200
+
+Headers:
+{'Date': 'Sun, 11 Oct 2026 18:20:23 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Server': 'cloudflare', 'last-modified': 'Fri, 09 Oct 2026 20:19:47 GMT', 'allow': 'GET, HEAD', 'Age': '7663', 'cf-cache-status': 'HIT', 'Content-Encoding': 'br', 'CF-RAY': 'a48fe0e8ef5215d1-JNB', 'alt-svc': 'h3=":443"; ma=86400'}
+
+Title:
+Example Domain
+
+Directories Found:
+[]
+
+Crawled Links:
+[]
+
+
+Mitigation Tips for Report:
+- Sanitize all user inputs
+- Use prepared statements for SQL
+- Hide Server headers
+- Only scan with permission
